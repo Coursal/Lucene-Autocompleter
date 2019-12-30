@@ -6,9 +6,11 @@ An index is created based on an english dictionary that is later scanned to look
 It takes some time to execute the first time due to the creation and then scanning of the index from the dictionary. After that, the execution time depends on your specs.
 
 ### Examples
-![](http://i64.tinypic.com/8yylup.png)
+![](examples/example_1.png)
 
-![](http://i64.tinypic.com/2f04ryc.png)
+![](examples/example_2.png)
+
+![](examples/example_3.png)
 
 English dictionary taken from [here](https://github.com/Coursal/crack-a-lackin/blob/master/words.english).
 
